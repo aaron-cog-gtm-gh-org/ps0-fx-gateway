@@ -1,3 +1,6 @@
+server:
+  port: 8091
+
 acme:
   rate-provider:
     base-url: https://rates.internal.acmebank.example
